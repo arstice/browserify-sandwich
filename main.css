@@ -1,0 +1,24 @@
+h1 {
+	text-align: center;
+}
+
+#menu {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.ingredient-card h2 {
+	text-align: center;
+}
+
+.ingredient-card {
+	margin: 50px;
+	width: 250px;
+	border: 2px solid black;
+	padding-bottom: 10px;
+}
+
+#total {
+	display: inline;
+}
